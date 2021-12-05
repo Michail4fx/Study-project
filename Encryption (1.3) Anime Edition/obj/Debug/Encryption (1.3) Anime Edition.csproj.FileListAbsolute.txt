@@ -1,0 +1,10 @@
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\bin\Debug\Encryption (1.3) Anime Edition.exe.config
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\bin\Debug\Encryption (1.3) Anime Edition.exe
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\bin\Debug\Encryption (1.3) Anime Edition.pdb
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\obj\Debug\Encryption__1._3__Anime_Edition.Mainform.resources
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\obj\Debug\Encryption__1._3__Anime_Edition.Properties.Resources.resources
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\obj\Debug\Encryption (1.3) Anime Edition.csproj.GenerateResource.cache
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\obj\Debug\Encryption (1.3) Anime Edition.csproj.CoreCompileInputs.cache
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\obj\Debug\Encryption (1.3) Anime Edition.exe
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\obj\Debug\Encryption (1.3) Anime Edition.pdb
+C:\Users\Eva-01\source\repos\Encryption (1.3) Anime Edition\Encryption (1.3) Anime Edition\obj\Debug\Encryption (1.3) Anime Edition.csprojAssemblyReference.cache
